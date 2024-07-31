@@ -6,6 +6,8 @@ Modifications:
 - Several chapters have been ommited to reduce the testing time. All chapters used in the demo have been relocated to `docs/` folder
 - The original `/docs` folder for Jekyll has been renamed to docs(jekyll) to avoid conflicts with the Co-Operator app
 
+- To see the translation demo, open the test branch!
+
 ![Generative AI For Beginners](./images/repo-thubmnail2.png?WT.mc_id=academic-105485-koreyst)
 
 ### 18 Lessons teaching everything you need to know to start building Generative AI applications
